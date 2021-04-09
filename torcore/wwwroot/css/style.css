@@ -1,0 +1,25 @@
+﻿body {
+    background:#fcfcfc;
+}
+
+img{
+    height:170px;
+    width:125px;
+    border-radius:5px;
+    border:2px solid black;
+}
+
+.sizeElemPic {
+    height: 255px;
+    width: 187px;
+}
+
+.unitElem {
+    margin-bottom: 15px;
+    height: 175px
+}
+
+.photo{
+    padding-right:45px;
+    margin-left:15px;
+}

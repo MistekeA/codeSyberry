@@ -1,0 +1,22 @@
+﻿<div class="container">
+    <h1>@Model.elementCategory</h1>
+    <h2>Все элементы</h2>
+
+    <div class="row mt-5 mb-2">
+        @{
+            foreach (var elem in Model.allElements)
+            {
+
+                <div class="col-lg-7">
+                    <img src="@elem.img" class="img-thumbhail sizeElemPic"  alt="@elem.nameElement" />
+                    <p class="h4" ><strong>@elem.nameElement</strong></p>
+                    <p>@elem.shortDescribe</p>
+                    <p><a class="btn btn-warning" href="#">Подробнее</a></p>
+                </div>
+            }
+        }
+
+    </div>
+</div>
+
+

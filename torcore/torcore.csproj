@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <StartupObject></StartupObject>
+    <ApplicationIcon />
+    <Win32Resource />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\Interfaces\iElemMeta.cs" />
+    <Compile Remove="Data\Interfaces\iElemSubCategory.cs" />
+    <Compile Remove="Data\Mocks\MockElements_Subcategory.cs" />
+    <Compile Remove="Data\Mocks\MockElenent_Metadata.cs" />
+    <Compile Remove="Data\Models\idElement_idMetaData.cs" />
+    <Compile Remove="Data\Models\idSubCategory_idElement.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.2.0" />
+    <PackageReference Include="JSON" Version="1.0.1" />
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.7" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.2.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Data">
+      <HintPath>..\..\..\..\..\..\Windows\Microsoft.NET\Framework\v4.0.30319\System.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\Lop\Source\Repos\torcore\torcore\bin\Debug\netcoreapp2.1\torcore.deps.json
+C:\Users\Lop\Source\Repos\torcore\torcore\bin\Debug\netcoreapp2.1\torcore.runtimeconfig.json
+C:\Users\Lop\Source\Repos\torcore\torcore\bin\Debug\netcoreapp2.1\torcore.runtimeconfig.dev.json
+C:\Users\Lop\Source\Repos\torcore\torcore\bin\Debug\netcoreapp2.1\torcore.dll
+C:\Users\Lop\Source\Repos\torcore\torcore\bin\Debug\netcoreapp2.1\torcore.pdb
+C:\Users\Lop\Source\Repos\torcore\torcore\obj\Debug\netcoreapp2.1\torcore.csprojAssemblyReference.cache
+C:\Users\Lop\Source\Repos\torcore\torcore\obj\Debug\netcoreapp2.1\torcore.csproj.CoreCompileInputs.cache
+C:\Users\Lop\Source\Repos\torcore\torcore\obj\Debug\netcoreapp2.1\torcore.RazorAssemblyInfo.cache
+C:\Users\Lop\Source\Repos\torcore\torcore\obj\Debug\netcoreapp2.1\torcore.RazorAssemblyInfo.cs
+C:\Users\Lop\Source\Repos\torcore\torcore\obj\Debug\netcoreapp2.1\torcore.AssemblyInfoInputs.cache
+C:\Users\Lop\Source\Repos\torcore\torcore\obj\Debug\netcoreapp2.1\torcore.AssemblyInfo.cs
+C:\Users\Lop\Source\Repos\torcore\torcore\obj\Debug\netcoreapp2.1\torcore.RazorTargetAssemblyInfo.cache
+C:\Users\Lop\Source\Repos\torcore\torcore\obj\Debug\netcoreapp2.1\torcore.dll
+C:\Users\Lop\Source\Repos\torcore\torcore\obj\Debug\netcoreapp2.1\torcore.pdb
